@@ -1,10 +1,11 @@
------------------------
+
 # Author:
 
 - Written by: Ahsanul Hadi
 - Batch no: NCC_IDCS, 18th Batch
 - Date: March, 2001	
 - Email: adil.gt@gmail.com
+
 -----------------------
 # Project Info:
 
@@ -14,6 +15,7 @@ This application is developed as a course project, for a Music Recording Store. 
 - to keep the records of order entry and sales and make inquiry,
 - to define the recording and selling charges and to modify them,
 - to make an inquiry on the current song album collection in the centre. 
+
 -----------------------
 # Setup Info:
 
